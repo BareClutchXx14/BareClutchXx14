@@ -1,16 +1,13 @@
-## Hi there 👋
+# just BareClutchXx14, writing code 👋
 
-<!--
-**BareClutchXx14/BareClutchXx14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Singapore.
 
-Here are some ideas to get you started:
+- probably overthinking a database schema right now
+- shipping small and often
+- learning DuckDB the slow way
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=BareClutchXx14&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=BareClutchXx14&theme=nightowl&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img src="https://img.shields.io/badge/DuckDB-f778ba?style=for-the-badge&logoColor=white" alt="DuckDB" /> <img src="https://img.shields.io/badge/NumPy-f778ba?style=for-the-badge&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-f778ba?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-f778ba?style=for-the-badge&logoColor=white" alt="Jupyter" />
